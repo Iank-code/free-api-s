@@ -1,0 +1,208 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name": "Gigantes Plaki",
+      "category": "Vegetarian",
+      "instructions": "Soak the beans overnight in plenty of water. Drain, rinse, then place in a pan covered with water. Bring to the boil, reduce the heat, then simmer for approx 50 mins until slightly tender but not soft. Drain, then set aside. Heat oven to 180C/160C fan/gas 4. Heat the olive oil in a large frying pan, tip in the onion and garlic, then cook over a medium heat for 10 mins until softened but not browned. Add the tomato purée, cook for a further min, add remaining ingredients, then simmer for 2-3 mins. Season generously, then stir in the beans. Tip into a large ovenproof dish, then bake for approximately 1 hr, uncovered and without stirring, until the beans are tender. The beans will absorb all the fabulous flavours and the sauce will thicken. Allow to cool, then scatter with parsley and drizzle with a little more olive oil to serve.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+      "ingredients": [
+        "Butter Beans",
+        "Olive Oil",
+        "Onion",
+        "Garlic Clove",
+        "Tomato Puree",
+        "Tomatoes",
+        "Sugar",
+        "Dried Oregano",
+        "Cinnamon",
+        "Chopped Parsley"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Roast fennel and aubergine paella",
+      "category": "Vegetarian",
+      "instructions": "1 Put the fennel, aubergine, pepper and courgette in a roasting tray. Add a glug of olive oil, season with salt and pepper and toss around to coat the veggies in the oil. Roast in the oven for 20 minutes, turning a couple of times until the veg are pretty much cooked through and turning golden. Meanwhile, heat a paella pan or large frying pan over a low-medium heat and add a glug of olive oil. Sauté the onion for 8-10 minutes until softened. Increase the heat to medium and stir in the rice, paprika and saffron. Cook for around 1 minute to start toasting the rice, then add the white wine. Reduce by about half before stirring in two-thirds of the stock. Reduce to a simmer and cook for 10 minutes without a lid, stirring a couple of times. Stir in the peas, add some seasoning, then gently mix in the roasted veg. Pour over the remaining stock, arrange the lemon wedges on top and cover with a lid or some aluminium foil. Cook for a further 10 minutes. To ensure you get the classic layer of toasted rice at the bottom of the pan, increase the heat to high until you hear a slight crackle. Remove from the heat and sit for 5 minutes before sprinkling over the parsley and serving.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
+      "ingredients": [
+        "Baby Aubergine",
+        "Fennel",
+        "Red Pepper",
+        "Courgettes",
+        "Onion",
+        "Paella Rice",
+        "Paprika",
+        "Saffron",
+        "White Wine",
+        "Vegetable Stock",
+        "Frozen Peas",
+        "Lemon",
+        "Parsley",
+        "Salt",
+        "Black Pepper"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Christmas cake",
+      "category": "Dessert",
+      "instructions": "Heat oven to 160C/fan 140C/gas 3. Line the base and sides of a 20 cm round, 7.5 cm deep cake tin. Beat the butter and sugar with an electric hand mixer for 1-2 mins until very creamy and pale in colour, scraping down the sides of the bowl half way through. Stir in a spoonful of the flour, then stir in the beaten egg and the rest of the flour alternately, a quarter at a time, beating well each time with a wooden spoon. Stir in the almonds. Mix in the sherry (the mix will look curdled), then add the peel, cherries, raisins, cherries, nuts, lemon zest, spice, rosewater and vanilla. Beat together to mix, then stir in the baking powder. Spoon mixture into the tin and smooth the top, making a slight dip in the centre. Bake for 30 mins, then lower temperature to 150C/fan 130C/gas 2 and bake a further 2-2¼ hrs, until a skewer insterted in the middle comes out clean. Leave to cool in the tin, then take out of the tin and peel off the lining paper. When completely cold, wrap well in cling film and foil to store until ready to decorate. The cake will keep for several months.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg",
+      "ingredients": [
+        "Butter",
+        "Muscovado Sugar",
+        "Plain Flour",
+        "Eggs",
+        "Ground Almonds",
+        "Sherry",
+        "Candied Peel",
+        "Glace Cherry",
+        "Raisins",
+        "Currants",
+        "Pecan Nuts",
+        "Lemon",
+        "Mixed Spice",
+        "Rose water",
+        "Vanilla Extract",
+        "Baking Powder"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Beef Rendang",
+      "category": "Beef",
+      "instructions": "Chop the spice paste ingredients and then blend it in a food processor until fine. Heat the oil in a stew pot, add the spice paste, cinnamon, cloves, star anise, and cardamom and stir-fry until aromatic. Add the beef and the pounded lemongrass and stir for 1 minute. Add the coconut milk, tamarind juice, water, and simmer on medium heat, stirring frequently until the meat is almost cooked. Add the kaffir lime leaves, kerisik (toasted coconut), sugar or palm sugar, stirring to blend well with the meat. Lower the heat to low, cover the lid, and simmer for 1 to 1 1/2 hours or until the meat is really tender and the gravy has dried up. Add more salt and sugar to taste. Serve immediately with steamed rice and save some for overnight.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
+      "ingredients": [
+        "Beef",
+        "Vegetable Oil",
+        "Cinnamon Stick",
+        "Cloves",
+        "Star Anise",
+        "Cardamom",
+        "Coconut Cream",
+        "Water",
+        "Tamarind Paste",
+        "Lime",
+        "Sugar",
+        "Challots"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Nasi lemak",
+      "category": "Seafood",
+      "instructions": "In a medium saucepan over medium heat, stir together coconut milk, water, ground ginger, ginger root, salt, bay leaf, and rice. Cover, and bring to a boil. Reduce heat, and simmer for 20 to 30 minutes, or until done. Place eggs in a saucepan, and cover with cold water. Bring water to a boil, and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool, peel and slice in half. Slice cucumber. Meanwhile, in a large skillet or wok, heat 1 cup vegetable oil over medium-high heat. Stir in peanuts and cook briefly, until lightly browned. Remove peanuts with a slotted spoon and place on paper towels to soak up excess grease. Return skillet to stove. Stir in the contents of one package anchovies; cook briefly, turning, until crisp. Remove with a slotted spoon and place on paper towels. Discard oil. Wipe out skillet. Heat 2 tablespoons oil in the skillet. Stir in the onion, garlic, and shallots; cook until fragrant, about 1 or 2 minutes. Mix in the chile paste, and cook for 10 minutes, stirring occasionally. If the chile paste is too dry, add a small amount of water. Stir in remaining anchovies; cook for 5 minutes. Stir in salt, sugar, and tamarind juice; simmer until sauce is thick, about 5 minutes. Serve the onion and garlic sauce over the warm rice, and top with peanuts, fried anchovies, cucumbers, and eggs.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
+      "ingredients": [
+        "Coconut Milk",
+        "Water",
+        "Ginger Paste",
+        "Ginger",
+        "Bay Leaf",
+        "Rice",
+        "Eggs",
+        "Cucumber",
+        "Peanuts",
+        "Anchovy Fillet",
+        "Vegetable Oil",
+        "Onion",
+        "Garlic",
+        "Shallots",
+        "Chilli Powder",
+        "Anchovy Fillet",
+        "Sugar",
+        "Tamarind Paste"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nutty Chicken Curry",
+      "category": "Chicken",
+      "instructions": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed. Heat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+      "ingredients": [
+        "Red Chilli",
+        "Ginger",
+        "Garlic",
+        "Coriander",
+        "Sunflower Oil",
+        "Chicken Breasts",
+        "Peanut Butter",
+        "Chicken Stock",
+        "Greek Yogurt"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sledz w Oleju (Polish Herrings)",
+      "category": "Seafood",
+      "instructions": "Soak herring in cold water for at least 1 hour. If very salty, repeat, changing the water each time. Drain thoroughly and slice herring into bite-size pieces. Place in a jar large enough to accommodate the pieces and cover with oil, allspice, peppercorns, and bay leaf. Close the jar. Refrigerate for 2 to 3 days before eating. This will keep refrigerated up to 2 weeks. Serve with finely chopped onion or onion slices, lemon, and parsley or dill.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
+      "ingredients": [
+        "Herring",
+        "Onion",
+        "Olive Oil",
+        "Allspice",
+        "Pepper",
+        "Bay Leaf"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Treacle Tart",
+      "category": "Dessert",
+      "instructions": "First make the short crust pastry: measure the flour into a large bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs (alternatively, this can be done in a food processor). Add about three tablespoons of cold water and mix to a firm dough, wrap in cling film and chill in the fridge for about 20 minutes. Preheat the oven to 200C/400F/Gas 6 and put a heavy baking tray in the oven to heat up. Grease a deep 18cm/7in loose-bottomed fluted flan tin with butter. Remove about 150g/5½oz of pastry from the main ball and set aside for the lattice top. Roll the rest of the pastry out thinly on a lightly floured work surface and line the prepared flan tin with the pastry. Prick the base with a fork, to stop the base rising up during baking. Place the reserved pastry for the lattice top on cling film and roll out thinly. Egg wash the pastry and set aside to chill in the fridge (the cling film makes it easier to move about). Do not cut into strips at this stage. Do not egg wash the strips once they are on the tart as it will drip into the treacle mixture. To make the filling, heat the syrup gently in a large pan but do not boil. Once melted, add the breadcrumbs, lemon juice and zest to the syrup. (You can add less lemon if you would prefer less citrus taste.) If the mixture looks runny, add a few more breadcrumbs. Pour the syrup mixture into the lined tin and level the surface. Remove the reserved pastry from the fridge and cut into long strips, 1cm/½in wide. Make sure they are all longer than the edges of the tart tin. Egg wash the edge of the pastry in the tin, and start to make the woven laying lattice pattern over the mixture, leave the strips hanging over the edge of the tin. Once the lattice is in place, use the tin edge to cut off the strips by pressing down with your hands, creating a neat finish. Bake on the pre-heated baking tray in the hot oven for about 10 minutes until the pastry has started to colour, and then reduce the oven temperature to 180C/350F/Gas 4. If at this stage the lattice seems to be getting too dark brown, cover the tart with tin foil. Bake for a further 25-30 minutes until the pastry is golden-brown and the filling set. Remove the tart from the oven and leave to firm up in the tin. Serve warm or cold.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg",
+      "ingredients": [
+        "Plain Flour",
+        "Butter",
+        "Golden Syrup",
+        "Breadcrumbs",
+        "Lemons",
+        "Eggs"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kedgeree",
+      "category": "Seafood",
+      "instructions": "For the rice, heat the oil in a large, lidded pan, add the onion, then gently fry for 5 mins until softened but not coloured. Add the spices, season with salt, then continue to fry until the mix start to go brown and fragrant; about 3 mins. Add the rice and stir in well. Add 600ml water, stir, then bring to the boil. Reduce to a simmer, then cover for 10 mins. Take off the heat and leave to stand, covered, for 10-15 mins more. The rice will be perfectly cooked if you do not lift the lid before the end of the cooking. Meanwhile, put the haddock and bay leaves in a frying pan, cover with the milk, then poach for 10 mins until the flesh flakes. Remove from the milk, peel away the skin, then flake the flesh into thumbsize pieces. Place the eggs in a pan, cover with water, bring to the boil, then reduce to a simmer. Leave for 4½-5 mins, plunge into cold water, then peel and cut the eggs into quarters. Gently mix the fish, eggs, parsley, coriander and rice together in the pan. Serve hot, sprinkled with a few extra herbs.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+      "ingredients": [
+        "Smoked Haddock",
+        "Bay Leaves",
+        "Milk",
+        "Eggs",
+        "Parsley",
+        "Coriander",
+        "Vegetable Oil",
+        "Onion",
+        "Coriander",
+        "Curry Powder",
+        "Rice"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Classic Christmas pudding",
+      "category": "Dessert",
+      "instructions": "Get everything for the pudding prepared. Chop the almonds coarsely. Peel, core and chop the cooking apples. Sharpen your knife and chop the candied peel. (You can chop the almonds and apples in a food processor, but the peel must be done by hand.) Grate three quarters of the nutmeg (sounds a lot but it's correct). Mix the almonds, apples, candied peel, nutmeg, raisins, flour, breadcrumbs, light muscovado sugar, eggs and 2 tbsp brandy or cognac in a large bowl. Holding the butter in its wrapper, grate a quarter of it into the bowl, then stir everything together. Repeat until all the butter is grated, then stir for 3-4 mins - the mixture is ready when it subsides slightly after each stir. Ask the family to stir too, and get everyone to make a wish. Generously butter two 1.2 litre bowls and put a circle of baking parchment in the bottom of each. Pack in the pudding mixture. Cover with a double layer of baking parchment, pleating it to allow for expansion, then tie with string (keep the paper in place with a rubber band while tying). Trim off any excess paper. Now stand each bowl on a large sheet of foil and bring the edges up over the top, then put another sheet of foil over the top and bring it down underneath to make a double package (this makes the puddings watertight). Tie with more string, and make a handle for easy lifting in and out of the pan. Watch our video to see how to tie up a pudding correctly. Boil or oven steam the puddings for 8 hrs, topping up with water as necessary. Remove from the pans and leave to cool overnight. When cold, discard the messy wrappings and re-wrap in new baking parchment, foil and string. Store in a cool, dry place until Christmas. To make the brandy butter, cream the butter with the orange zest and icing sugar. Gradually beat in the brandy or cognac and chopped stem ginger. Put in a small bowl, fork the top attractively and put in the fridge to set. The butter will keep for a week in the fridge, or it can be frozen for up to six weeks. On Christmas Day, boil or oven steam for 1 hr. Unwrap and turn out. To flame, warm 3-4 tbsp brandy in a small pan, pour it over the pudding and set light to it.",
+      "thumbnail": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg",
+      "ingredients": [
+        "Almonds",
+        "Bramley Apples",
+        "Candied Peel",
+        "Nutmeg",
+        "Raisins",
+        "Plain Flour",
+        "Breadcrumbs",
+        "Muscovado Sugar",
+        "Eggs",
+        "Brandy",
+        "Butter"
+      ]
+    }
+  ]
+}
